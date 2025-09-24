@@ -16,10 +16,10 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: "not uesed"
-  ui[1]: "not uesed"
-  ui[2]: "not uesed"
-  ui[3]: "not uesed"
+  ui[0]: "not uesd"
+  ui[1]: "not uesd"
+  ui[2]: "not uesd"
+  ui[3]: "not uesd"
   ui[4]: "not uesed"
   ui[5]: "not uesed"
   ui[6]: "not uesed"
